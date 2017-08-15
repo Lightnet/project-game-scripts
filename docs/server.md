@@ -1,0 +1,1 @@
+Current notthing build for server yet. Just express,socket.io,gunDB and other things.
